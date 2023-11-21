@@ -1,0 +1,2 @@
+Nemozno zostrojit periodicky pracujuci tepelny stroj, ktory by teplo od isteho telesa iba prijimal a vykonaval rovnako velku pracu, pre tepelne motory plati str 97 $\eta <=\eta _{max}=\frac{T_1-T_2}{T_1}=1-\frac{T_2}{T_1}$
+parny stroj ucinnost do 15%, parna turbin do 35%, zazihovy motor az do 55%, vznetovy aj do 73% a reaktivne aj 75% mozno uz aj viac moderne

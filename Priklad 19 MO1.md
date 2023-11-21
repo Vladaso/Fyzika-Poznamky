@@ -1,0 +1,1 @@
+39.12°C malo vyjst

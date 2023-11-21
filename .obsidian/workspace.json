@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "a1b963f5b5ffafb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e064bdb323cf909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2f02940e1adf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c941fc1bcda48b2e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Učebnica Fyzika pre 3. ročník gymnázia.pdf"
+              }
+            }
+          },
+          {
+            "id": "82278eab10fce1fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/vlnenie v priestore.md"
+              }
+            }
+          },
+          {
+            "id": "ae5b27cf93191a10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/odraz vlnenia, pevny a volny koniec.md"
+              }
+            }
+          },
+          {
+            "id": "e031a8e4fd621bfb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/vlnenie.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6194d6d3368d0323",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b59a7dcd0f7dfd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68cf25b3195e5c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1819ff0e5eadd0af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aadb1bcbf275b22",
+            "type": "leaf",
+            "state": {
+              "type": "diagram",
+              "state": {
+                "file": "Untitled Diagram 4.svg"
+              }
+            }
+          },
+          {
+            "id": "a5ae163396d161fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "810ef72970d17ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c61490d9e395a808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a53cfecd807b108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "896190563c894938",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eed0d5f617517426",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae1e5e50ad59f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kmitavy pohyb MO22 a MV MO23.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ee2f02940e1adf3e",
+  "lastOpenFiles": [
+    "Pasted image 20231121092321.png",
+    "Učebnica Fyzika pre 3. ročník gymnázia.pdf",
+    "Kmitavy pohyb MO22 a MV MO23.md",
+    "Excalidraw/vlnenie v priestore.md",
+    "Excalidraw/odraz vlnenia, pevny a volny koniec.md",
+    "Excalidraw/vlnenie.md",
+    "Maturita fyzika.md",
+    "Mechanika kvapalin a plynov MO7.md",
+    "Energia hmotnych bodov MO8.md",
+    "Molekulova fyzika a termodynamika MO9.md",
+    "Gravitacne pole MO5 a MO6.md",
+    "Dynamika hmotneho bodu MO2 MO3.md",
+    "Mechanika tuheho telesa MO4.md",
+    "Kinematika hmotneho bodu MO1.md",
+    "Priklad 26 MO2.md",
+    "Striedavy prud MO24.md",
+    "Priklad 24 MO1.md",
+    "Excalidraw/obvod striedaveho prudu.md",
+    "Excalidraw/transormator.md",
+    "Excalidraw/vykon sp.md",
+    "Excalidraw/graf striedaveho prudu a normalneho.md",
+    "Excalidraw/Obvod s RLC v serii.md",
+    "Excalidraw/kondenzator v striedavom prude.md",
+    "Excalidraw/rezonacna krivka.md",
+    "Priklad 25 MO2.md",
+    "Priklad 24. MO2.md",
+    "Excalidraw/oscilacny obvod.md",
+    "Untitled Diagram 6.svg",
+    "Učebnica Fyzika pre 2. ročník gymnázia.pdf",
+    "Pasted image 20231008023654.png",
+    "Pasted image 20231008022840.png",
+    "Pasted image 20231008022104.png",
+    "Pasted image 20231008022102.png",
+    "Pasted image 20231008022010.png",
+    "Pasted image 20231008021313.png",
+    "Excalidraw",
+    "Pasted image 20231008015147.png",
+    "Pasted image 20231008015112.png",
+    "Pasted image 20231008014946.png",
+    "Učebnica Fyzika pre 1. ročník gymnázia.pdf",
+    "Učebnica Fyzika pre 4. ročník gymnázia.pdf",
+    "Učebnica Fyzika pre 2. ročník gymnázia (el. pole, el. prúd).pdf",
+    "Untitled.canvas",
+    "Untitled"
+  ]
+}
