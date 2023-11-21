@@ -184,3 +184,10 @@ str 182 [[Učebnica Fyzika pre 3. ročník gymnázia.pdf]]
 ![[Pasted image 20231121092321.png]]
 Cim je diera mensia tym sa vlnenie viac zahyba
 Ohybovy jav je tym mensi cim je mensia vlnova dlzka
+# Zvuk a jeho vlastnosti
+$f=\frac{c}{\lambda}$
+$f=\frac{v}{\lambda}$
+infrazvuk<16Hz - 20 Hz< ultrazvuk
+rychlost vzduchu $v=340ms^{-1}$
+rychlost svetla $c=3*10^{8}ms^{-1}$
+Kedze zvuk je mechanicka vlna vo vakuu vo vesmire sa nesiri ale svetlo je elektormagnetcika vlna a to sa siri aj vo vakuu lebo nepotrebuje latkove prostredie
