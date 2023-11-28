@@ -13,49 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "file": "Maturita fyzika.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c941fc1bcda48b2e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Učebnica Fyzika pre 3. ročník gymnázia.pdf"
-              }
-            }
-          },
-          {
-            "id": "82278eab10fce1fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/vlnenie v priestore.md"
-              }
-            }
-          },
-          {
-            "id": "ae5b27cf93191a10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/odraz vlnenia, pevny a volny koniec.md"
-              }
-            }
-          },
-          {
-            "id": "e031a8e4fd621bfb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/vlnenie.md"
               }
             }
           }
@@ -78,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MO2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,12 +75,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "810ef72970d17ef7",
@@ -136,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "file": "Maturita fyzika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kmitavy pohyb MO22 a MV MO23.md",
+                "file": "Maturita fyzika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kmitavy pohyb MO22 a MV MO23.md"
+                "file": "Maturita fyzika.md"
               }
             }
           }
@@ -185,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,17 +160,28 @@
   },
   "active": "ee2f02940e1adf3e",
   "lastOpenFiles": [
+    "Struktura a vlastnosti plynov MO10.md",
+    "Maturita fyzika.md",
+    "Molekulova fyzika a termodynamika MO9.md",
+    "Priklad 9. MO1.md",
+    "Pasted image 20231127200740.png",
+    "Energia hmotnych bodov MO8.md",
+    "Priklad 8. MO1.md",
+    "Priklad 7. MO1.md",
+    "Priklad 6. MO1.md",
+    "Priklad 6. MO2.md",
+    "Priklad 4. MO2.md",
+    "Mechanika kvapalin a plynov MO7.md",
+    "Priklad 1. MO2.md",
+    "Priklad 2. MO2.md",
+    "Priklad 7. MO2.md",
+    "Gravitacne pole MO5 a MO6.md",
+    "Kmitavy pohyb MO22 a MV MO23.md",
     "Pasted image 20231121092321.png",
     "Učebnica Fyzika pre 3. ročník gymnázia.pdf",
-    "Kmitavy pohyb MO22 a MV MO23.md",
     "Excalidraw/vlnenie v priestore.md",
     "Excalidraw/odraz vlnenia, pevny a volny koniec.md",
     "Excalidraw/vlnenie.md",
-    "Maturita fyzika.md",
-    "Mechanika kvapalin a plynov MO7.md",
-    "Energia hmotnych bodov MO8.md",
-    "Molekulova fyzika a termodynamika MO9.md",
-    "Gravitacne pole MO5 a MO6.md",
     "Dynamika hmotneho bodu MO2 MO3.md",
     "Mechanika tuheho telesa MO4.md",
     "Kinematika hmotneho bodu MO1.md",
@@ -218,15 +189,6 @@
     "Striedavy prud MO24.md",
     "Priklad 24 MO1.md",
     "Excalidraw/obvod striedaveho prudu.md",
-    "Excalidraw/transormator.md",
-    "Excalidraw/vykon sp.md",
-    "Excalidraw/graf striedaveho prudu a normalneho.md",
-    "Excalidraw/Obvod s RLC v serii.md",
-    "Excalidraw/kondenzator v striedavom prude.md",
-    "Excalidraw/rezonacna krivka.md",
-    "Priklad 25 MO2.md",
-    "Priklad 24. MO2.md",
-    "Excalidraw/oscilacny obvod.md",
     "Untitled Diagram 6.svg",
     "Učebnica Fyzika pre 2. ročník gymnázia.pdf",
     "Pasted image 20231008023654.png",
@@ -237,8 +199,6 @@
     "Pasted image 20231008021313.png",
     "Excalidraw",
     "Pasted image 20231008015147.png",
-    "Pasted image 20231008015112.png",
-    "Pasted image 20231008014946.png",
     "Učebnica Fyzika pre 1. ročník gymnázia.pdf",
     "Učebnica Fyzika pre 4. ročník gymnázia.pdf",
     "Učebnica Fyzika pre 2. ročník gymnázia (el. pole, el. prúd).pdf",

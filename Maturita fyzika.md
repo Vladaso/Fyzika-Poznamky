@@ -1,3 +1,4 @@
+//tento file nie je content managed j tu vsetko postupne prepojenie medzi temou a otazkami je v otazke cez hyperlinky
 [[Kinematika hmotneho bodu MO1]]
 [[Priklad 1. MO1]]
 [[Priklad 1. MO2]]
@@ -9,7 +10,7 @@
 [[Priklad 3. MO2]]
 [[Mechanika tuheho telesa MO4]]
 [[Priklad 4. MO1]]
-
+[[Priklad 4. MO2]]
 [[Gravitacne pole MO5 a MO6]]
 [[Priklad 5. MO1]]
 [[Priklad 5.MO2]]
@@ -63,7 +64,7 @@
 [[Priklad 19 MO1]]
 [[Priklad 19. MO2]]
 
-[[Priklad 4. MO2]]
+
 
 [[priklad_19. MO]]
 [[Priklad 19. MO2]]
