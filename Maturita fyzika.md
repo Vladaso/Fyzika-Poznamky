@@ -31,7 +31,7 @@
 
 
 [[Priklad 9. MO1]]
-[[Struktura a vlastnosti plynov MO10]]
+[[Struktura a vlastnosti plynov MO10 MO11]]
 [[Priklad 10. MO1]]
 [[Priklad 10 MO2]]
 
@@ -72,6 +72,7 @@
 [[Nestacionarne magneticke pole MO21]]
 [[Kmitavy pohyb MO22 a MV MO23]]
 [[Striedavy prud MO24]]
+[[Zaklady optiky MO25 a MO26]]
 [[Priklad 20. MO1]]
 [[Priklad 21. MO1]]
 [[Priklad 20. MO2]]
@@ -82,6 +83,7 @@
 [[Priklad 23. MO2]]
 [[Priklad 24 MO1]]
 [[Priklad 24. MO2]]
+[[Priklad 25 MO1]]
 [[Priklad 25 MO2]]
 [[Priklad 26 MO2]]
 

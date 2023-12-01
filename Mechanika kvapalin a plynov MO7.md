@@ -26,7 +26,7 @@ Tlak vyvolany vonkajsou silou na povrch kvapaliny je vo vsetkych miestach rovnak
 
 Tlak v kvapaline môže byť vyvolaný ľubovoľnou vonkajšou silou, alebo tiažou kvapaliny. Ak na častice kvapaliny nachádzajúce sa na jej povrchu pôsobí vonkajšia tlaková sila, tá sa pôsobením týchto častíc na ďalšie častice nachádzajúce sa pod povrchom prenáša. Vznikajúci tlak sa preto rozšíri do celého objemu kvapaliny. Ak je v určitom mieste kvapaliny tlak _p_, potom kolmo na ľubovoľne orientovanú plochu s veľkosťou _S_  pôsobí kvapalina tlakovou silou
 $F=p*S$
-Tlak sposobeny tiazou kvapaliny
+Tlak sposobeny tiazou kvapaliny - Bernoulliho rovnica?
 $p=\rho *g*h$
 
 Hydraulicky princip
@@ -39,4 +39,15 @@ Vplyvom siloveho posobenia Zeme vznika v kvapaline hydrostaticky tlak, ktory zav
 Hydrostatická tlaková sila pôsobiaca v kvapaline s hustotou r kolmo na plochu _S_ v hĺbke _h_ má veľkosť
 $F_{h}=mg = F_{h}=Sh\rho g$
 $$p_{h}=\frac{F_{h}}{S}=\frac{Sh \rho g}{S}=h\rho g$$
+
+
+Rovnica kontinuity = $Q_m=S*v$ - hmotnostny tok
+Bernoulliho rovnica pre ustalene vodorovne prudenie idealnej kvapaliny $p+\frac{1}{2}\rho v^2=konst$
+$\rho = \frac{m}{V}$
+$p = \frac{F_p}{S}=F_p=p*S$
+$m = \rho*V$
+robime s V = $1m^3$ pre jednoduchost
+$Q_m=S*v$
+$E_p=F_p*s=p*S*s=p*V$
+$E_k=\frac{1}{2}mv^{2}=\frac{1}{2}\rho V v^{2}$
 

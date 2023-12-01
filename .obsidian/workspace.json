@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maturita fyzika.md",
+                "file": "Priklad 25 MO1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d0fe20d33ae9b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Druhy pohybovy zakon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MO2",
+                "query": "maturi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita fyzika.md",
+                "file": "Druhy pohybovy zakon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita fyzika.md",
+                "file": "Druhy pohybovy zakon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maturita fyzika.md"
+                "file": "Druhy pohybovy zakon.md"
               }
             }
           }
@@ -158,37 +171,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee2f02940e1adf3e",
+  "active": "1d0fe20d33ae9b28",
   "lastOpenFiles": [
-    "Struktura a vlastnosti plynov MO10.md",
+    "Dynamika hmotneho bodu MO2 MO3.md",
+    "Druhy pohybovy zakon.md",
     "Maturita fyzika.md",
+    "Mechanika kvapalin a plynov MO7.md",
+    "Struktura a vlastnosti plynov MO10 MO11.md",
+    "Priklad 6. MO1.md",
+    "Gravitacne pole MO5 a MO6.md",
+    "Prvy pohybovy zakon.md",
+    "Mechanika tuheho telesa MO4.md",
+    "Kinematika hmotneho bodu MO1.md",
+    "Zaklady optiky MO25 a MO26.md",
+    "Priklad 25 MO1.md",
+    "Struktura a vlastnosti pevneho skupenstva MO12.md",
+    "Priklad 1. MO1.md",
     "Molekulova fyzika a termodynamika MO9.md",
+    "Energia hmotnych bodov MO8.md",
     "Priklad 9. MO1.md",
     "Pasted image 20231127200740.png",
-    "Energia hmotnych bodov MO8.md",
     "Priklad 8. MO1.md",
     "Priklad 7. MO1.md",
-    "Priklad 6. MO1.md",
     "Priklad 6. MO2.md",
     "Priklad 4. MO2.md",
-    "Mechanika kvapalin a plynov MO7.md",
     "Priklad 1. MO2.md",
     "Priklad 2. MO2.md",
     "Priklad 7. MO2.md",
-    "Gravitacne pole MO5 a MO6.md",
     "Kmitavy pohyb MO22 a MV MO23.md",
     "Pasted image 20231121092321.png",
     "Učebnica Fyzika pre 3. ročník gymnázia.pdf",
     "Excalidraw/vlnenie v priestore.md",
-    "Excalidraw/odraz vlnenia, pevny a volny koniec.md",
-    "Excalidraw/vlnenie.md",
-    "Dynamika hmotneho bodu MO2 MO3.md",
-    "Mechanika tuheho telesa MO4.md",
-    "Kinematika hmotneho bodu MO1.md",
-    "Priklad 26 MO2.md",
-    "Striedavy prud MO24.md",
-    "Priklad 24 MO1.md",
-    "Excalidraw/obvod striedaveho prudu.md",
     "Untitled Diagram 6.svg",
     "Učebnica Fyzika pre 2. ročník gymnázia.pdf",
     "Pasted image 20231008023654.png",

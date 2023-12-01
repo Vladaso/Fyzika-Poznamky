@@ -20,7 +20,7 @@ Q = U-W
 Q=U+W|
 $\Delta U=W+Q$
 Vyuzitie = parne stroje parne turbiny
-[[Struktura a vlastnosti plynov MO10]]
+[[Struktura a vlastnosti plynov MO10 MO11]]
 1.TZ $Q_T=W^|$ lebo $\Delta U = 0J$ - Izotermicky dej s idealnym plynom
 Izochoricky dej V=konst. $\frac{p_1}{T_1}=\frac{p_2}{T_2}$
 pri izochorickom dji s idealnym plynom stalej hmotnosti je tlak plynu priamo umerny jeho termodynamickej teplote(Charlov zakon)
