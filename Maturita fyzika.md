@@ -72,7 +72,7 @@
 [[Nestacionarne magneticke pole MO21]]
 [[Kmitavy pohyb MO22 a MV MO23]]
 [[Striedavy prud MO24]]
-[[Zaklady optiky MO25 a MO26]]
+[[Zaklady optiky MO25 a MO26 a MO27]]
 [[Priklad 20. MO1]]
 [[Priklad 21. MO1]]
 [[Priklad 20. MO2]]
@@ -86,6 +86,8 @@
 [[Priklad 25 MO1]]
 [[Priklad 25 MO2]]
 [[Priklad 26 MO2]]
+[[Priklad 26 MO1]]
+[[Priklad 28 MO2]]
 
 
-
+[[Spracovane maturitne otazky]]

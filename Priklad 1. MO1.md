@@ -7,3 +7,17 @@ $s=v_0t+-\frac{1}{2}at^2$
 $s=20 \frac{m}{s}*10s - \frac{1}{2}2m/s^{2}*10s^2$
 $s = 100m$
 
+$v_{0}= 72kmh^{-1}=20ms^{-1}$
+$v_{1}=0ms^{-1}$
+$\Delta t = 10s$
+$[a]=ms^{-2}$
+$[s]=m$
+$a = \frac{\Delta v}{\Delta t}$
+$a = \frac{0ms^{-1}-20ms^{-1}}{10s}$
+$a = -2ms^{-2}$
+ked a je minusove je to spomaleny pohyb
+$s=v_{0}t+\frac{1}{2}at^2$
+
+
+
+

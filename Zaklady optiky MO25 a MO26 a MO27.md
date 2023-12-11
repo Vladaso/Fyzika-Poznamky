@@ -67,3 +67,53 @@ Svetlo je priecne vlnenie a nie je polarizovane, to znamena ze kmita v roznych r
 str 73 [[Učebnica Fyzika pre 4. ročník gymnázia.pdf]]
 Polarizacia svetla odrazene pod 57° je polarizovane
 [[Priklad 25 MO1]]
+
+# Opticke sustavy a opticke zobrazovanie
+Z kazdeho bodu svietiaceho alebo osvetleneho predmetu vychadza zvazok rozbiehavych lucov - smer sirenia svetla, ak odrazom alebo lomom zmenie smer lucov vznikaju zbiehave luce ktore sa stretaju v obrazoch. 
+Zmenu smeru lucov mozeme dosiahnut lomom alebo odrazom => vhodnou volbou rozhrania dvoch prostredi = opticka sustava.
+Pod optickym zobrazenim rozumieme urobit predmety viditelnymi na inom mieste v skutocnej alebo zmenenej velkosti
+Ak luce tvoria za sustavou zbiehavy zvazok, obraz je skutocny - realny
+Ak su luce pri vystupe zo sustavy rozbiehave obraz je neskutocny 
+
+Zobrazovanie odrazom:
+- na zrkadlach - rovinne a gulove
+Zobrazovanie lomom
+- sosovky - spojky a rozptylky
+
+obrazok na strane 21 [[Učebnica Fyzika pre 4. ročník gymnázia.pdf]]
+
+
+# Zobrazovanie odrazom
+a) rovinne zrkadla
+odraza rovinna plocha
+b)gulove zrkadla
+odraza zakrivena plocha
+(*c) parabolicke*)
+![[Zobrazovanie odrazom]]
+a=a1
+Predmety zobrazene v rovinnom zrkadle su neskutocne, priame ale stranovo prevratene a rovnako vzdialene od zrkadla ako predmet
+
+b)
+Gulove zrkadlo - gulovy vrchlik 
+- 1. dute gulove zrkadlo, svetlo odraza vnutorna plocha vrchlika
+- 2. vypukle vonkajsia plocha vrchlika
+Plati zakon odrazu
+![[dute zrkadlo]]
+$|CV|=r$
+$|CF|=|FV|=\frac{r}{2}=f$
+tr 27 [[Učebnica Fyzika pre 4. ročník gymnázia.pdf]]
+budeme vyuzivat iba tri dolezite luce
+
+Predmety kolme na opticku os sa zobrazuju na predmenty kolme na opticku os
+pri dutej
+$a>r = zmenseny, sktuocny prevrateny$
+a = r - rovnako velky skutocny, prevrateny
+$r<a<f$ zvacseny skutocny prevrateny
+a=f zvacse
+$a<f$ zvacseny neskutocny priamy
+pri vypuklom vsetky zmensene priame neskutocne
+
+![[IMG_20231207_092011.jpg]][[Učebnica Fyzika pre 4. ročník gymnázia.pdf]] str 37
+$5^|$ neskutocny priamy zvacseny
+
+v rozptylke vsetky priame neskutocne zmensene

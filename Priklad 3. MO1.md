@@ -4,7 +4,10 @@ $m_1=x$
 $v_{2}= ?$
 $m_2=400x$
 zakon vzajomneho posobenia 3NPZ
-$p_1=p_2$
+$\vec p_{1}=\vec p_2$
+$\vec p = \vec p_{1} + \vec p_{2}$
+ovz
+$p=p_1-p_2$
 $v_1*m_1=v_2*m_2$
 $\frac{800x}{400x}=v$
 $v=2m/s$
