@@ -117,3 +117,24 @@ pri vypuklom vsetky zmensene priame neskutocne
 $5^|$ neskutocny priamy zvacseny
 
 v rozptylke vsetky priame neskutocne zmensene
+
+# Oko ako opticka sustava
+Oko vie menit ohniskovu zdialenost, sosovka je spojka. Obrazy na sietnici sa zobrazuju obratene, mozog ich upravi. 
+Akomodacia oka - schopnost menit ohniskovu vzdialenost
+Pri zdravom oku ma akomodacia ma istu hranicu, body blizsie ako blizky bod sa nezobrazuju ostro, daleky bod, najvzdialenejsi bod kedy este ostro vidime.
+Konvencna zrakova vzdialenost d, vzdialenost pri ktorej predmety pozorujeme dlhsie bez unavy asi 25 cm, v starobe viac.
+str 41 a 40 [[Učebnica Fyzika pre 4. ročník gymnázia.pdf]] zorny uhol
+Ak je predmet blizsie zorny uhol $\tau$ je vacsi, ked je zorny uhol mensi ako minuta predmet sa stava bodom nie priamkou. 
+Velmi rychlo rozoznovame zmeny ale ak sa deju pod 0,1s, oko to vnima spojito
+Priestorove videnia sa straca okolo vzdialenosti 450m
+Pre opticku mohutnost okuliarov plati 
+$\phi\frac{1}{d}-\frac{1}{a}$
+[[Priklad 26 MO1]]
+
+# Elektromagneticke ziarenie
+Elektormagneticka ma dve zlozky, elektricku a vlnovu, nepotrebuje latkove prostredie na pohyb. 
+EMZ vznika dvomi sposobmi:
+1) kazda castica pohybujuca sa s nenulovym zrychlenim
+2) Ak nasta
+EMZ sa siri v kvantach, ktore nazyvame fotony(nie su castice ani vlny)
+**nepisem to je to na edupage

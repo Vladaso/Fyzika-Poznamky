@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d0fe20d33ae9b28",
+            "id": "5d9b5c76e346e438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MO7 Otazky a priklady.md",
+                "file": "Priklad 2. MO1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a579cef8db5f462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita fyzika.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a88f10179a9cc52",
+            "id": "be361411f60897ff",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/dute zrkadlo.md"
+                "file": "Excalidraw/HMP.md"
               }
             }
           },
@@ -47,14 +35,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MO3 Otazky a priklady.md",
+                "file": "Priklad 29 MO1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eed731ec4e7c13d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturita fyzika.md",
+                "file": "Priklad 2. MO1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita fyzika.md",
+                "file": "Priklad 2. MO1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maturita fyzika.md"
+                "file": "Priklad 2. MO1.md"
               }
             }
           }
@@ -193,34 +189,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a579cef8db5f462",
+  "active": "5d9b5c76e346e438",
   "lastOpenFiles": [
+    "MO2 Otazky a priklady.md",
+    "Druhy pohybovy zakon.md",
+    "Prvy pohybovy zakon.md",
+    "Spracovane maturitne otazky.md",
+    "MO4 Otazky a priklady.md",
+    "Maturita fyzika.md",
+    "Priklad 30 MO1.md",
+    "Atomy MO29 a MO30.md",
+    "Excalidraw/HMP.md",
+    "Priklad 29 MO1.md",
+    "MO3 Otazky a priklady.md",
+    "Priklad 1. MO1.md",
+    "MO1 Otazky a priklady.md",
+    "Mechanika tuheho telesa MO4.md",
+    "Priklad 28 MO1.md",
+    "Excalidraw/einstein fotojav.md",
+    "Zaklady kvantovej fyziky MO28.md",
+    "Prvy Termodynamicky zakon.md",
     "Zaklady optiky MO25 a MO26 a MO27.md",
+    "Priklad 27 MO1.md",
+    "Priklad 28 MO2.md",
+    "Excalidraw/nakres 28 MO2.md",
+    "Priklad 26 MO1.md",
+    "MO7 Otazky a priklady.md",
     "IMG_20231207_092011.jpg",
     "Excalidraw/dute zrkadlo.md",
-    "Maturita fyzika.md",
     "Priklad 3. MO1.md",
-    "MO7 Otazky a priklady.md",
-    "Priklad 7. MO1.md",
-    "MO3 Otazky a priklady.md",
-    "Spracovane maturitne otazky.md",
-    "Excalidraw/Zobrazovanie odrazom.md",
-    "MO10 Otazky a priklady.md",
-    "Excalidraw/Adiobara.md",
-    "Excalidraw/Izochora.md",
-    "Excalidraw/Izoterma.md",
-    "Excalidraw/Izobara.md",
-    "Struktura a vlastnosti plynov MO10 MO11.md",
-    "Kinematika hmotneho bodu MO1.md",
-    "MO1 Otazky a priklady.md",
-    "Priklad 1. MO1.md",
-    "Druhy pohybovy zakon.md",
-    "Dynamika hmotneho bodu MO2 MO3.md",
-    "Mechanika kvapalin a plynov MO7.md",
-    "Priklad 6. MO1.md",
-    "Gravitacne pole MO5 a MO6.md",
-    "Prvy pohybovy zakon.md",
-    "Mechanika tuheho telesa MO4.md",
     "Pasted image 20231127200740.png",
     "Pasted image 20231121092321.png",
     "Učebnica Fyzika pre 3. ročník gymnázia.pdf",

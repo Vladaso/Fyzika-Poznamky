@@ -87,7 +87,13 @@
 [[Priklad 25 MO2]]
 [[Priklad 26 MO2]]
 [[Priklad 26 MO1]]
+[[Priklad 27 MO1]]
+[[Priklad 28 MO1]]
 [[Priklad 28 MO2]]
+[[Zaklady kvantovej fyziky MO28]]
+[[Atomy MO29 a MO30]]
+[[Priklad 29 MO1]]
+
 
 
 [[Spracovane maturitne otazky]]
