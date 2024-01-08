@@ -49,18 +49,20 @@
 [[Priklad 14. MO1]]
 
 [[Priklad 14. MO2]]
+[[Elektricke pole MO15]]
 [[Priklad 15 MO1]]
 
 [[Priklad 15 MO2]]
+[[Elektricky prud MO16]]
 [[Priklad 16. MO1]]
 [[Priklad 16. MO2]]
-
+[[Elektricky prud v kovoch MO17]]
 [[Priklad 17. MO1]]
 [[Priklad 17. MO2]]
-
+[[Elektricke prud v polovodicoch a elektrolytoch MO18]]
 [[Priklad 18. MO1]]
 [[Priklad 18. MO2]]
-
+[[Vnutorna energia, teplo MO19]]
 [[Priklad 19 MO1]]
 [[Priklad 19. MO2]]
 

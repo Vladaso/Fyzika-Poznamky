@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8e064bdb323cf909",
+        "id": "9e35a284e6de97f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9b5c76e346e438",
+            "id": "71f00be153fae77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Priklad 2. MO1.md",
+                "file": "Priklad 19 MO1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "be361411f60897ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HMP.md"
-              }
-            }
-          },
-          {
-            "id": "edd1ef80204291e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Priklad 29 MO1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eed731ec4e7c13d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -68,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matu",
+                "query": "maturi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priklad 2. MO1.md",
+                "file": "Priklad 19 MO1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Priklad 2. MO1.md",
+                "file": "Priklad 19 MO1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Priklad 2. MO1.md"
+                "file": "Priklad 19 MO1.md"
               }
             }
           }
@@ -189,14 +158,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d9b5c76e346e438",
+  "active": "71f00be153fae77b",
   "lastOpenFiles": [
+    "Maturita fyzika.md",
+    "priklad_19. MO.md",
+    "Priklad 19 MO1.md",
+    "Vnutorna energia, teplo MO19.md",
+    "Priklad 18. MO1.md",
+    "Elektricke prud v polovodicoch a elektrolytoch MO18.md",
+    "Elektricky prud v kovoch MO17.md",
+    "Priklad 17. MO1.md",
+    "Priklad 16. MO1.md",
+    "Elektricky prud MO16.md",
+    "Priklad 15 MO1.md",
+    "Elektricke pole MO15.md",
+    "Elektricke pole.md",
+    "Priklad 2. MO1.md",
     "MO2 Otazky a priklady.md",
     "Druhy pohybovy zakon.md",
     "Prvy pohybovy zakon.md",
     "Spracovane maturitne otazky.md",
     "MO4 Otazky a priklady.md",
-    "Maturita fyzika.md",
     "Priklad 30 MO1.md",
     "Atomy MO29 a MO30.md",
     "Excalidraw/HMP.md",
@@ -204,20 +186,7 @@
     "MO3 Otazky a priklady.md",
     "Priklad 1. MO1.md",
     "MO1 Otazky a priklady.md",
-    "Mechanika tuheho telesa MO4.md",
-    "Priklad 28 MO1.md",
-    "Excalidraw/einstein fotojav.md",
-    "Zaklady kvantovej fyziky MO28.md",
-    "Prvy Termodynamicky zakon.md",
-    "Zaklady optiky MO25 a MO26 a MO27.md",
-    "Priklad 27 MO1.md",
-    "Priklad 28 MO2.md",
-    "Excalidraw/nakres 28 MO2.md",
-    "Priklad 26 MO1.md",
-    "MO7 Otazky a priklady.md",
     "IMG_20231207_092011.jpg",
-    "Excalidraw/dute zrkadlo.md",
-    "Priklad 3. MO1.md",
     "Pasted image 20231127200740.png",
     "Pasted image 20231121092321.png",
     "Učebnica Fyzika pre 3. ročník gymnázia.pdf",
