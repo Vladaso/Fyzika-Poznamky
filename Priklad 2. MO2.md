@@ -10,3 +10,6 @@ $r = \frac{250^2}{40}$
 $r = 1562.5m$
 sila hore je -3*FG
 
+TOTO SOM ZLE VYPOCITAL - vysledok je dobry
+$\vec F_{v}=\vec{F_{G}}\vec{F_{o}}$
+$F_{1}= 5F_{G}$ dole

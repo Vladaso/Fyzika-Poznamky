@@ -6,7 +6,7 @@ $F_1=?$
 ![[priklad 4 MO1 nakres]]
 Kedze rameno sa neotaca momenty sil musia byt rovnake
 $M_1=M_2$
-Tazisko je v strede -> r/2, pretoze tam vplyva tiazova sila
 $F_1*r=\frac{1}{2}r*F_G*cos30°$
 $F_{1}= \frac{0.5r*F_G*cos30°}{r}$
 Robotnik musi posobit silou takme 169.91N
+

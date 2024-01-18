@@ -3,7 +3,7 @@ $v_1=800m/s$
 $m_1=x$
 $v_{2}= ?$
 $m_2=400x$
-zakon vzajomneho posobenia 3NPZ
+Zakon zachovania hybnosti
 $\vec p_{1}=\vec p_2$
 $\vec p = \vec p_{1} + \vec p_{2}$
 ovz

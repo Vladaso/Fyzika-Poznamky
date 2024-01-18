@@ -10,5 +10,5 @@ $s=122.625m$
 $v_f=v_0-gt$
 $0 = v_0-gt$
 $v_0=gt$
-$v_0=49.05ms^{-1}$
+$v_0=49.05ms^{-1}$ aj zaciatocna aj akou dopadol spat
 

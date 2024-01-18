@@ -1,4 +1,4 @@
-//tento file nie je content managed j tu vsetko postupne prepojenie medzi temou a otazkami je v otazke cez hyperlinky
+\\\\\\\\\\//tento file nie je content managed j tu vsetko postupne prepojenie medzi temou a otazkami je v otazke cez hyperlinky
 [[Kinematika hmotneho bodu MO1]]
 [[Priklad 1. MO1]]
 [[Priklad 1. MO2]]

@@ -17,6 +17,15 @@ $a = \frac{0ms^{-1}-20ms^{-1}}{10s}$
 $a = -2ms^{-2}$
 ked a je minusove je to spomaleny pohyb
 $s=v_{0}t+\frac{1}{2}at^2$
+na hodine
+$v_{0}=20ms^{-1}$
+$a=\frac{\Delta v}{\Delta t}$
+$a=\frac{v_1-v_0}{10}$
+$a =\frac{-20ms^{-1}}{10s}$
+$a=-2ms^{-2}$
+$s=v_0t+\frac{1}{2}at^{2}$
+$s=200-100$
+$s=100m$
 
 
 

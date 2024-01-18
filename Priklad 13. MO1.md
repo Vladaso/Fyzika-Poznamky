@@ -4,6 +4,7 @@ h = 2cm =
 $\sigma=73mNm^{-1}$=13*10^-3Nm^-1
 $\rho =1000kg m^{-3}$
 $g=10ms^{-2}$
+R - polomer kapilary
 $h\rho g= \frac{2\sigma}{R}$
 $R=\frac{2\sigma}{h\rho g}$
 $\frac{2*73*10^{-3}*N*m^{-1}}{2*10^{-2}m*1000Nm*10ms^{-2}}$

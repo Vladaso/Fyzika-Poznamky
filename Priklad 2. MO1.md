@@ -8,3 +8,12 @@ $\vec{F}=\frac{-7.2}{0.1}$
 F = -72
 Na loptu posobil silou -72N.
 zmena hybnsti je -7.2kgm/s.
+Na hodine:
+$F=ma=m\frac{\Delta v}{\Delta t}$
+$F=-72N$
+$v=40ms^{-1}$
+$t=0,1s$
+$m=0,18kg$
+$\vec{p_1}-\vec{p_2}=0$
+$\Delta p = p_2-p_1$
+$\Delta p=-7.2kgms^{-1}$
