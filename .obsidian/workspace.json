@@ -13,35 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stacionarne magneticke pole MO20.md",
-                "mode": "preview",
+                "file": "Priklad 28 MO1.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11af75e3088bdec2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/priklad 4 MO1 nakres.md"
-              }
-            }
-          },
-          {
-            "id": "ec35a961d55c98c5",
+            "id": "d29f702633905122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stacionarne magneticke pole MO20.md",
+                "file": "MO 25 Otazky a priklady.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permea",
+                "query": "Matu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stacionarne magneticke pole MO20.md",
+                "file": "MO 25 Otazky a priklady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stacionarne magneticke pole MO20.md",
+                "file": "MO 25 Otazky a priklady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stacionarne magneticke pole MO20.md"
+                "file": "MO 25 Otazky a priklady.md"
               }
             }
           }
@@ -180,34 +171,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71f00be153fae77b",
+  "active": "d29f702633905122",
   "lastOpenFiles": [
-    "Excalidraw/elektromagneticka indukcia.md",
-    "Priklad 2. MO2.md",
+    "Spracovane maturitne otazky.md",
+    "MO 25 Otazky a priklady.md",
+    "MO Otazky a priklady.md",
+    "Priklad 28 MO1.md",
+    "MO30 Otazky a priklady.md",
     "Maturita fyzika.md",
-    "Priklad 1. MO2.md",
-    "Priklad 1. MO1.md",
-    "Priklad 10. MO1.md",
-    "Priklad 9. MO1.md",
-    "Priklad 8. MO1.md",
-    "Priklad 7. MO1.md",
-    "Priklad 6. MO1.md",
-    "Priklad 5. MO1.md",
-    "Priklad 4. MO1.md",
-    "Excalidraw/priklad 4 MO1 nakres.md",
-    "Stacionarne magneticke pole MO20.md",
-    "Priklad 3. MO1.md",
-    "Treti pohybovy zakon.md",
-    "Priklad 2. MO1.md",
-    "Druhy pohybovy zakon.md",
-    "Priklad 20. MO1.md",
-    "Priklad 19 MO1.md",
-    "Priklad 18. MO1.md",
-    "Priklad 6. MO2.md",
-    "Priklad 7. MO2.md",
-    "Priklad 8. MO2.md",
+    "MO28 Otazky a priklady.md",
+    "Nestacionarne magneticke pole MO21.md",
+    "Priklad 17. MO1.md",
+    "Elektricky prud v kovoch MO17.md",
     "Priklad 15 MO1.md",
     "Priklad 13. MO1.md",
+    "Elektricke prud v polovodicoch a elektrolytoch MO18.md",
+    "MO18 Otazky a priklady.md",
+    "MO12 Otazky a priklady.md",
+    "Priklad 16. MO1.md",
+    "Elektricke pole MO15.md",
+    "Struktura a vlastnosti pevneho skupenstva MO12.md",
+    "Priklad 12. MO1.md",
+    "Priklad 11. MO1.md",
+    "Priklad 20. MO2.md",
+    "Priklad 19. MO2.md",
+    "Priklad 18. MO2.md",
+    "Priklad 17. MO2.md",
+    "Priklad 16. MO2.md",
+    "Priklad 15 MO2.md",
     "IMG_20231207_092011.jpg",
     "Pasted image 20231127200740.png",
     "Pasted image 20231121092321.png",

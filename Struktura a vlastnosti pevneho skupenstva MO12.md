@@ -62,7 +62,7 @@ $\Delta l = l-l_1$
 $\alpha$ = sucinitel teplotnej dlzkovej roztaznosti. - tabulkova hodnota.
 $\Delta l =\alpha l_{1}\Delta t$
 $l-l_1=\alpha*l_1*\Delta t$
-$l = l_1(1+\alpha)*\Delta t$
+$l = l_1(1+\alpha*\Delta t)$
 ($\alpha$) =$K^{-1}$
 $V = V_1(1+\beta*\Delta t)$
 $\beta$ - sucinitel objemovej teplotnej roztaznosti

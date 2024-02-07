@@ -7,3 +7,14 @@ $r = 1,705mm = 1,705*10^{-3} m$
 
 $l=2\Pi r$
 $\sigma = \frac{F}{l}\approx \frac{mg}{2\Pi r}=7.43*10^{-2}Nm^{-1}$
+
+----
+$\sigma =$ povrchove napatie
+$d=3,41mm=3,41*10^{3}m$
+$100$ kvapiek
+jedna ma 8,11g
+$l = 2\Pi r$
+$g=9,81ms^{-2}$
+$\sigma=\frac{F}{l}=\frac{gm}{\Pi d}$
+$\sigma \approx 7.43*10^{-2}Nm^{-1}$
+

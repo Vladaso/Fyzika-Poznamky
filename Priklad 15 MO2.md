@@ -6,7 +6,7 @@ $\sigma _{n}=572MPa$=$572*10^6Pa$
 [F]=N
 $E=196GPa$=$16*10^9Pa$
 $\sigma _n=E*\varepsilon = E*\frac{\Delta l}{l_1}$
-$\sigma _n$=522,7MPa<$\sigma _n$
+$\sigma _m$=522,7MPa<$\sigma _n$
 je to pruzna deformacia
-$\sigma _n=\frac{F}{S}$=>$F=\sigma _n*S=522,7*1,20$
+$\sigma _m=\frac{F}{S}$=>$F=\sigma _m*S=522,7*1,20$
 $F=627$N
