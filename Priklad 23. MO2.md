@@ -4,7 +4,15 @@ NMP
 $[I_i]=A$
 $\frac{\Delta B}{\Delta t}=\frac{0,64T}{1s}$
 $d=40mm=4*10^{-2}m$
-$R=0,012 \ohm $
+$r = 2*10^{-2}m$
+$R=0,012 \ohm$
+$I=\frac{U}{R}$
+Faradayov zakon $U_{i}=|-\frac{\Delta \phi}{\Delta t}|$
+$\phi =BScos\alpha$
+
 $$U_i=|-\frac{\Delta \phi}{\Delta t}| = \frac{BS*cos\alpha}{\Delta t}$$
-U ma byt 0,405*10^-3 V
-I ma byt 33,5*10^-3 A
+
+$\frac{0,64*\Pi r^{2}*\frac{1}{2}}{1s}$
+$U_{i}=0,402*10^{-3}V$
+$I = \frac{U}{R}$
+$I = 33,5 *10^{-3}A$
